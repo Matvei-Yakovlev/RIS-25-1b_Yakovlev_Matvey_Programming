@@ -33,6 +33,6 @@
 
 <[https.pstu.ru/>](https://www.youtube.com)>
 
-![Фотка]('https://static0.gamerantimages.com/wordpress/wp-content/uploads/2021/11/youtube-play-logo.jpg'"lolol")
+![Фотка]('https://static0.gamerantimages.com/wordpress/wp-content/uploads/2021/11/youtube-play-logo.jpg')
 
 [Это реальная ссылка](https://www.youtube.com)
