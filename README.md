@@ -31,9 +31,6 @@
    2. Найс
    3. Это 3
 
-![foto]('https://static0.gamerantimages.com/wordpress/wp-content/uploads/2021/11/youtube-play-logo.jpg')
-<[https.pstu.ru/>](https://www.youtube.com)>
-
-![Фотка]('https://static0.gamerantimages.com/wordpress/wp-content/uploads/2021/11/youtube-play-logo.jpg')
+![goto]('https://static0.gamerantimages.com/wordpress/wp-content/uploads/2021/11/youtube-play-logo.jpg'"Eto foto")
 
 [Это реальная ссылка](https://www.youtube.com)
