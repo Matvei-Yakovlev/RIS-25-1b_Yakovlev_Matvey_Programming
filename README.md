@@ -31,6 +31,12 @@
   
 ``` C++
 #include <iostream>
+
+using namespace std;
+
+int main() {
+   return 0;
+}
 ```
 
 [Это реальная ссылка](https://www.youtube.com)
