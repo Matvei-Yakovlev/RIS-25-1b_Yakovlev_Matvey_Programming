@@ -30,6 +30,7 @@
    1. Подпункт
   
 '''C
+
 #include <iostream>
 
 using namespace std;
