@@ -29,10 +29,9 @@
 1. Список
    1. Подпункт
   
-''' C
+''' C++
 
 #include <iostream>
-
 using namespace std;
 
 '''
