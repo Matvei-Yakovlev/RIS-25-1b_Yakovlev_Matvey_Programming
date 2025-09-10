@@ -29,7 +29,9 @@
 1. Список
    1. Подпункт
    2. Найс
-   3. Это 3
+  
+![foto1]('https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/YouTube_Logo_%282013-2017%29.svg/1024px-YouTube_Logo_%282013-2017%29.svg.png'"Youtube")
+   4. Это 3
 
 ![goto]('https://static0.gamerantimages.com/wordpress/wp-content/uploads/2021/11/youtube-play-logo.jpg'"Eto foto")
 
