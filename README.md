@@ -29,14 +29,9 @@
 1. Список
    1. Подпункт
   
-''' C++
-
+``` C++
 #include <iostream>
-using namespace std;
-
-'''
-
-   3. Найс
+```
 
 [Это реальная ссылка](https://www.youtube.com)
 
