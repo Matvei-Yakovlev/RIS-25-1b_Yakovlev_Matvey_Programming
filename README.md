@@ -30,7 +30,7 @@
    1. Подпункт
    2. Найс
   
-![foto1]('https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/YouTube_Logo_%282013-2017%29.svg/1024px-YouTube_Logo_%282013-2017%29.svg.png'"Youtube")
+![foto1]('https://p2.zoon.ru/preview/5rDOIpSWa7P1tA3gU3jYNA/2400x1500x75/1/5/b/original_58e2d72340c08891708ca9d9_6263b0bb833222.16063227.jpg')
    4. Это 3
 
 ![goto]('https://static0.gamerantimages.com/wordpress/wp-content/uploads/2021/11/youtube-play-logo.jpg'"Eto foto")
